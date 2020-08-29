@@ -6,9 +6,18 @@
   align-items: center;
   text-align: center;
   min-height: 100vh;
+  background: url('assets/money.jpg') no-repeat center/ cover fixed;
+}
+
+.wrapper {
+  background-color: #ffe4c4;
+  padding: 30px 40px;
+  border-radius: 20px;
 }
 
 .cc-title {
+  color: #000;
+  font-weight: bolder;
   margin: 0;
   margin-bottom: .5rem;
 }
