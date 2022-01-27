@@ -2,8 +2,9 @@
 
 A currency converter that provides you the latest rate of currencies.
 
-## Demo
-This is how this app looks :
+⛔ <b>Sorry, this project is deprecated...</b>
+
+<br />
 
 ### Example case :
 
@@ -15,16 +16,26 @@ GBP to JPY
 <img src="https://raw.githubusercontent.com/kevinadhiguna/currency-converter/master/demo/1.png" width="90%"> <br>
 -->
 
+<br />
+
 ## How to Run :
 
-In the project directory, you can run:
+Install dependencies :
+```
+yarn
+```
 
-### `yarn start`
+Start the app :
+```
+yarn start
+```
 
-Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<br />
+
+The page will reload if you make edits. You will also see any lint errors in the console.
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/currency-converter)](https://github.com/kevinadhiguna)
