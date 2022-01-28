@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  currency-converter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: currency-converter_ctr
+    environment:
+      REACT_APP_CURRENCY_API_URL: "https://api.exchangeratesapi.io/latest"
+    ports:
+      - 3000:3000
