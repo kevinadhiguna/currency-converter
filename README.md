@@ -38,4 +38,9 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 <br />
 
+## Reference
+- [Web Dev Simplified - Build A Currency Converter In React](https://youtu.be/XN5elYWiSuw)
+
+<br />
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/currency-converter)](https://github.com/kevinadhiguna)
